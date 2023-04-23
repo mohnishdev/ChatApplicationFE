@@ -1,0 +1,38 @@
+.sent:hover  .editMessageIcon{
+    display: inline-block;
+}
+
+.editMessageIcon{
+    padding: 0 3px;
+    margin: 0 0 0 3px;
+    color: black;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 15px;
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    right: 0;
+    transform: translate(10px, -8px);
+}
+.editinfopopup{
+    border: 1px solid #d1caca;
+    position: absolute;
+    right: 0;
+    background: #fff;
+    z-index: 999999;
+    padding: 2px 12px;
+    top: 0;
+    font-size: 12px;
+    border-radius: 3px;
+    max-width: 200px;
+    word-break: break-all;
+    cursor: pointer;
+}
+.timer{
+    font-size: 9px;
+    font-family: fantasy;
+    /* background-color: darkgray; */
+    padding: 3px;
+    border-radius: 9px;
+}

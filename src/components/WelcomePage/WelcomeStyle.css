@@ -1,0 +1,9 @@
+.welcome{
+    /* background-color:antiquewhite; */
+    min-height: 99.5vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

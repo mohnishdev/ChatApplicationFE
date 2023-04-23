@@ -1,0 +1,21 @@
+.inputmain{
+    width:"100%";
+    position:"absolute"; 
+    bottom:"2px"
+}
+.chatInput{
+    width: 95%;
+     padding:4px
+}
+.fileInput{
+    display: none;
+}
+.chatBtn{
+    background-color: blue;
+    border: none;
+    /* width: 5%; */
+    border-radius: 5px;
+    padding: 4px 6px;
+    color: white;
+    font-weight: 700;
+}

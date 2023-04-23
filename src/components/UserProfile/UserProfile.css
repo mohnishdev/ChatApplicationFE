@@ -1,0 +1,51 @@
+.userProfile{
+    position: relative !important;
+    top: 50px !important;
+    color: black;
+    /* background-color: burlywood; */
+    /* min-height: 90.2vh; */
+   
+}
+.userProfile .fa-arrow-circle-left{
+    font-size: 28px;
+    margin: 0% 5px;
+    color: white;
+}
+.profileContainer{
+    /* text-align: center; */
+    /* border: 5px double black; */
+    border-radius: 10px;
+    padding: 18px 15px;
+    /* width: 30%; */
+    margin: auto;
+    position: relative;
+    /* top: 70px; */
+}
+.profileBtn{
+    border: none;
+    background-color: #e2e2f1;
+    border-radius: 50%;
+    padding: 3px 5px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    transform: scale(-1, 1)
+}
+.profileimage{
+    position: relative;
+}
+
+.image-upload-lable{
+    position: absolute;
+    /* bottom: 10px; */
+    right: 217px;
+    cursor: pointer;
+
+}
+.updateProfileBtn{
+    padding: 8px 36px;
+    color: #fff;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 5px;
+}
